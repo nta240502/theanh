@@ -1,4 +1,4 @@
-1import array as arr
+import array as arr
 a  = [1,1,2,6,8,9,4,5,6,45,34,66,44,37,78]
 b = []
 for i in a :
